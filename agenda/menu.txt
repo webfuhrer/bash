@@ -1,0 +1,6 @@
+Añadir contactos
+Buscar contacto por nombre
+Listar contactos
+Borrar contacto
+Editar contacto
+SALIR
